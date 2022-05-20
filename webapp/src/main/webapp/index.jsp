@@ -4,11 +4,11 @@
     <p>Please fill in this form to create an account.</p>
     <hr>
      
-    <label for="FirstName"><b>Enter First Name</b></label>
+    <label for="FirstName"><b>Enter FirstName</b></label>
     <input type="text" placeholder="Enter First Name" name="FirstName" id="FName" required>
     <br>
     
-    <label for="LastName"><b>Enter Last Name </b></label>
+    <label for="LastName"><b>Enter LastName </b></label>
     <input type="text" placeholder="Enter Last Name" name="LastName" id="LName" requried>
     <label for="Personal mobile"><b>Enter mobile</b></label>
     <input type="text" placeholder="Enter personal moible number" name="Mobile" id="mobile" required>
@@ -34,7 +34,7 @@
     <button type="submit" class="registerbtn">REGISTER</button>
   </div>
   <div class="container signin">
-    <p>Already have an account? <a href="#">Sign in</a>.</p>
+    <p>Already have an account? <a href="#">Sign in Me</a>.</p>
   </div>
 
    <h1> Thankyou, Happy Learning Sindhura Rakesh </h1>

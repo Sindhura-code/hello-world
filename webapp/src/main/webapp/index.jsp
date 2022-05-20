@@ -10,6 +10,8 @@
     
     <label for="LastName"><b>Enter LastName </b></label>
     <input type="text" placeholder="Enter Last Name" name="LastName" id="LName" requried>
+    <br>
+
     <label for="Personal mobile"><b>Enter mobile</b></label>
     <input type="text" placeholder="Enter personal moible number" name="Mobile" id="mobile" required>
     <br>

@@ -22,6 +22,10 @@
     <input type="password" placeholder="Enter Password" name="psw" id="psw" required>
     <br>
 
+    <label for="dob"><b>DOB</b><label>
+    <input type="dob" placehoder="Enter Data Of Birth" name="dob" id ="dob">
+    <br>
+
     <label for="psw-repeat"><b>Repeat Password</b></label>
     <input type="password" placeholder="Repeat Password" name="psw-repeat" id="psw-repeat" required>
     <hr>

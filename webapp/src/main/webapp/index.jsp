@@ -39,7 +39,7 @@
     <p>Already have an account? <a href="#">Sign in Me</a>.</p>
   </div>
 
-   <h1> Thankyou, Happy Learning Sindhura Rakesh </h1>
+   <h1> Thankyou, Happy Learning Sindhura Rakesh Thvishu </h1>
 
   
 </form>

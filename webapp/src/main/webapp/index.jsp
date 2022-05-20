@@ -25,7 +25,7 @@
     <br>
 
     <label for="dob"><b>DOB</b><label>
-    <input type="dob" placehoder="Enter Data Of Birth" name="dob" id ="dob">
+    <input type="dob" placeholder="Enter Data Of Birth" name="dob" id ="dob">
     <br>
 
     <label for="psw-repeat"><b>Repeat Password</b></label>

@@ -5,11 +5,11 @@
     <hr>
      
     <label for="FirstName"><b>Enter FirstName</b></label>
-    <input type="text" placeholder="Enter First Name" name="FirstName" id="FName" required>
+    <input type="text" placeholder="Enter my First Name" name="FirstName" id="FName" required>
     <br>
     
     <label for="LastName"><b>Enter LastName </b></label>
-    <input type="text" placeholder="Enter Last Name" name="LastName" id="LName" requried>
+    <input type="text" placeholder="Enter my Last Name" name="LastName" id="LName" requried>
     <br>
 
     <label for="Personal mobile"><b>Enter Personal Mobile</b></label>
@@ -17,11 +17,11 @@
     <br>
 
     <label for="email"><b>Enter Email Adress</b></label>
-    <input type="text" placeholder="Enter Email Adress" name="email" id="email" required>
+    <input type="text" placeholder="Enter my Email Adress" name="email" id="email" required>
     <br>
 
     <label for="psw"><b>Password</b></label>
-    <input type="password" placeholder="Enter Password" name="psw" id="psw" required>
+    <input type="password" placeholder="Enter my Password" name="psw" id="psw" required>
     <br>
 
     <label for="dob"><b>DOB</b><label>

@@ -13,7 +13,7 @@
     <br>
 
     <label for="Personal mobile"><b>Enter Personal Mobile</b></label>
-    <input type="text" placeholder="Enter personal moible number" name="Mobile" id="mobile" required>
+    <input type="text" placeholder="Enter my moible number" name="Mobile" id="mobile" required>
     <br>
 
     <label for="email"><b>Enter Email Adress</b></label>
